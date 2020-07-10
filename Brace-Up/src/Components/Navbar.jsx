@@ -26,7 +26,8 @@ export default Navbar;
 
 const Headers = styled.header`
   nav {
-    background-color: #282828;
+    // background-color: #282828;
+    background-color: #FF4500;
     display: flex;
     justify-content: space-between;
     text-align: right;

@@ -13,7 +13,7 @@ export default function Home() {
           <img src={students} alt="Students in class" />
         </div>
         <h2 className="home-wel">Welcome to BraceUp</h2>
-        <p className="tagline"><i>Explore. Educate. Empower.</i></p>
+        <p className="tagline"><i>Demistifying the art, science, and psychology of beautiful dentition.</i></p>
         <div className="paragraphs">
           <div className="mission">
             <div className="mission-div">

@@ -10,25 +10,21 @@ export default function About() {
     <StyledPage >
       <div className="animated animatedFadeInUp fadeInUp">
         <header>
+          <p></p>
           <h1>Our Story</h1>
           <div className="img"><img src={aboutImg} alt="Happy-Kids" /></div>
         </header>
         <StyledParagragph>
           <p className="about-us">
-            <span id="stem">S</span>TEMJets offers a platform for schools and parents to provide flexible experiential STEM
-                (Science, Technology, Engineering and Mathematics) learning to pre-university students
-                through a collaborative and low-cost approach. This platform helps students to develop practical
-                skills necessary to aspire and succeed in emerging STEM careers while promoting access,
-                mobility and inclusion.The future of work is dynamic and requires a workforce that is as skilled
-                as it is knowledgeable.
+            <span id="stem">B</span>raceUp Lorem ipsum dolor sit amet consectetur adipisicing elit. Unde corrupti maxime reprehenderit quis illo ipsam pariatur,
+            nihil minima deserunt repudiandae at corporis necessitatibus eius, vel omnis tempore ex natus debitis!
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Unde corrupti maxime reprehenderit quis illo ipsam pariatur,
+            nihil minima deserunt repudiandae at corporis necessitatibus eius, vel omnis tempore ex natus debitis!.
                 </p>
-          <p className="Next-path">Our value hypothesis is that an increase in the creativeness of STEM education will lead to an
-          increased interest of pre-university students in STEM and promote innovation. The goal of
-          STEMJets is to promote technological innovation by revolutionising the delivery model of STEM
-          education, complementing traditional schools by facilitating hands-on training exercises,
-          mirroring their everyday challenges. We make these fields attractive to today's generation,
-          minimise the perception that science is for geniuses and improve their ability to link science to
-          societal problem-solving.
+          <p className="Next-path">Lorem ipsum dolor sit amet consectetur adipisicing elit. Unde corrupti maxime reprehenderit quis illo ipsam pariatur,
+          nihil minima deserunt repudiandae at corporis necessitatibus eius, vel omnis tempore ex natus debitis!
+          Lorem ipsum dolor sit amet consectetur adipisicing elit. Unde corrupti maxime reprehenderit quis illo ipsam pariatur,
+          nihil minima deserunt repudiandae at corporis necessitatibus eius, vel omnis tempore ex natus debitis!.
                 </p>
           <div className="join">
             <p><i>Would you like to help make a difference? </i><span className="join-us hvr-radial-out"><Link to="/join">Join our network</Link></span></p>

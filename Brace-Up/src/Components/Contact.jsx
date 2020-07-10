@@ -33,12 +33,10 @@ function Contact(props) {
           props.history.push('/thanks')
         }
         else {
-          console.log(res + "from res..")
           props.history.push('/error')
         }
       })
       .catch(error => {
-        console.log(error + " From error..")
         props.history.push('/error')
       })
   };
